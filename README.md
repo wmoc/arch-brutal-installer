@@ -3,7 +3,7 @@ The fastest arch installer
 
 # don't use it unless you absolutely know what it does
 
-
+Tested only on vultr.com with centos instance
 
 # Warning - it destroys your computer
 Use only on virtual machine.
