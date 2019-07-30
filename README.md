@@ -1,6 +1,8 @@
 # arch-brutal-installer
 The fastest arch installer
 
+# don't use it unless you absolutely know what it does
+
 
 
 # Warning - it destroys your computer
